@@ -18,7 +18,7 @@
 </div>
 
 ## Proximas Habilidades a ser Desenvolvida </br>
- Curso Full Stack | OneBitCode
+ Curso Full Stack
 <div style="display: inline_block"><br/>
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whit"> 
